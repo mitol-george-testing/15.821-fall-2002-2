@@ -1,0 +1,33 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Marketing"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Social Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "21429228-e9c5-e09f-6e30-e4c27a33ce66"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Listening to the Customer",
+  "course_description": "_The 15.821 and 15.822 Sequence_\n\nMarketing research may be divided into methods that emphasize understanding \"the customer\" and methods that emphasize understanding \"the market.\" This course (15.821) deals with the customer and emphasizes qualitative methods (interviews, focus groups, Voice of the Customer, composing questions for a survey). The companion course (15.822) deals with the market and emphasizes quantitative methods (sampling, survey execution, quantitative data interpretation, conjoint analysis, factor analysis).\n\nThe methods covered in 15.821 are often used in the \"front-end\" of market research project, whose second-stage is a quantitative survey. The quality of information gathered in the second-stage is greatly enhanced in this way.\n\n15.821 is designed for the nonspecialist, e.g., someone planning a career in general management, product or project management, R&D, advertising, or entrepreneurship. 15.822 teaches analytical techniques that are standard in consulting or marketing research, and is ideally suited for students planning careers in those fields.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.821",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
